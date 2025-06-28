@@ -1,0 +1,10 @@
+__pycache__/
+*.swp
+*.pyc
+venv/
+*.pkl
+metrics.json
+pytest_report.txt
+report.md
+.pytest_cache/
+.env
